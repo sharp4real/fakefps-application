@@ -59,9 +59,9 @@ If the overlay doesn't appear in your game:
 
 ## System Requirements
 
-- **OS**: Windows 10 or Windows 11 -7/8 Not Recommended
-- **RAM**: 2GB minimum (4GB recommended)
-- **Storage**: 1GB available space
+- **OS**: Windows 10 or Windows 11 -7/8 Not Recommended (Maybe Run In Compatibility Mode)
+- **RAM**: 2GB minimum (4GB+ recommended)
+- **Storage**: 100MB available space
 
 ---
 
