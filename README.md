@@ -66,6 +66,7 @@ If the overlay doesn't appear in your game:
 ---
 
 ## If you have any doubts of running this app here is what you can do
+- Click the link below and you will see it only has 1 detection which is just a false postitive.
 
 ```bash
 # https://www.virustotal.com/gui/file/d8edc16cc983683f3a33842d4552989c32d111e046d171fe14b856e4c3774678?nocache=1
