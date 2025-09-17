@@ -68,11 +68,4 @@ If the overlay doesn't appear in your game:
 ## If you have any doubts of running this app here is what you can do
 
 ```bash
-# Go To VirusTotal
-Upload the .exe and you will see that it has 0 viruses, (if any are detected it's a false positive)
-
-# Run Malwarebytes/Any Other
-You will see it says there is nothing wrong with the file.
-
-# Feel free to request the source code, it's not promised
-I may give it or may not. 
+# https://www.virustotal.com/gui/file/d8edc16cc983683f3a33842d4552989c32d111e046d171fe14b856e4c3774678?nocache=1
